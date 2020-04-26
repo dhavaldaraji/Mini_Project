@@ -20,31 +20,31 @@ while x == "y":
         print("----------")
 
     elif n==3:
-        print("----------")
+        print("-----------")
         print("|    0    |")
         print("|    0    |")
         print("|    0    |")
-        print("----------")
+        print("-----------")
 
     elif n==4:
-        print("----------")
+        print("-----------")
         print("| 0    0  |")
         print("|         |")
         print("| 0    0  |")
-        print("----------")
+        print("-----------")
 
     elif n==5:
-        print("----------")
+        print("-----------")
         print("| 0     0 |")
         print("|    0    |")
         print("| 0     0 |")
-        print("----------")
-
+        print("-----------")
+y
     elif n==6:
-        print("----------")
+        print("-----------")
         print("| 0     0 |")
         print("| 0     0 |")
         print("| 0     0 |")
-        print("----------") 
+        print("-----------") 
 
     x=input("If you want to roll again ! enter 'y' : ")
